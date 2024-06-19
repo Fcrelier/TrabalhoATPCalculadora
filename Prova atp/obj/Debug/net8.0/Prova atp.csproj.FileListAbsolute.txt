@@ -1,0 +1,14 @@
+C:\Users\Felipe Crelier\Desktop\Estudos prova atp\Prova atp\bin\Debug\net8.0\Prova atp.exe
+C:\Users\Felipe Crelier\Desktop\Estudos prova atp\Prova atp\bin\Debug\net8.0\Prova atp.deps.json
+C:\Users\Felipe Crelier\Desktop\Estudos prova atp\Prova atp\bin\Debug\net8.0\Prova atp.runtimeconfig.json
+C:\Users\Felipe Crelier\Desktop\Estudos prova atp\Prova atp\bin\Debug\net8.0\Prova atp.dll
+C:\Users\Felipe Crelier\Desktop\Estudos prova atp\Prova atp\bin\Debug\net8.0\Prova atp.pdb
+C:\Users\Felipe Crelier\Desktop\Estudos prova atp\Prova atp\obj\Debug\net8.0\Prova atp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Crelier\Desktop\Estudos prova atp\Prova atp\obj\Debug\net8.0\Prova atp.AssemblyInfoInputs.cache
+C:\Users\Felipe Crelier\Desktop\Estudos prova atp\Prova atp\obj\Debug\net8.0\Prova atp.AssemblyInfo.cs
+C:\Users\Felipe Crelier\Desktop\Estudos prova atp\Prova atp\obj\Debug\net8.0\Prova atp.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Crelier\Desktop\Estudos prova atp\Prova atp\obj\Debug\net8.0\Prova atp.dll
+C:\Users\Felipe Crelier\Desktop\Estudos prova atp\Prova atp\obj\Debug\net8.0\refint\Prova atp.dll
+C:\Users\Felipe Crelier\Desktop\Estudos prova atp\Prova atp\obj\Debug\net8.0\Prova atp.pdb
+C:\Users\Felipe Crelier\Desktop\Estudos prova atp\Prova atp\obj\Debug\net8.0\Prova atp.genruntimeconfig.cache
+C:\Users\Felipe Crelier\Desktop\Estudos prova atp\Prova atp\obj\Debug\net8.0\ref\Prova atp.dll
